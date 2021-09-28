@@ -3,7 +3,7 @@
 ## Summary
 :warning: Archived Project for Portfolio Purposes :warning:
 
-Vanguard Health Insurance / GoMediQuote after our success with their first site, [Vanguard Health Insurance](https://github.com/kamst01/vanguard_health_insurance), came to me to accompany the first site with a sister site. The first sites goal was to acquire clients through telephone, this is by online form and then telephone.
+Vanguard Health Insurance / GoMediQuote came to me after the success with their first site, [Vanguard Health Insurance](https://github.com/kamst01/vanguard_health_insurance), to accompany the first site with a sister site. The first sites goal was to acquire clients through telephone, this is by online form and then telephone.
 
 This is the first website I had to create where the design, colors, logos and direction was already taken care of by the client.
 
